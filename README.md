@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [a Responsive Website for a Dental Billing Company](https://dental-guidance.netlify.app/)
 
-- 🌱 I’m currently learning **Back-end Development**
+- 🌱 I’m currently learning **  iOS Development **
 
 - 👨‍💻 All of my projects are available at [https://chezyb-dev.netlify.app/](https://chezyb-dev.netlify.app/)
 
