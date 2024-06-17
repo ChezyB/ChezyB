@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **  iOS Development **
 
-- 👨‍💻 All of my projects are available at [https://chezyb-dev.netlify.app/](https://chezyb-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://chezyb-dev.netlify.app/](https://bit.ly/ChezyB-dev)
 
 - 📫 How to reach me **Chezy.Butzloff@gmail.com**
 
