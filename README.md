@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at https://bit.ly/ChezyB-dev
 
-- 📫 How to reach me **Chezy.Butzloff@gmail.com**
+- 📫 How to reach me **Chezy05.dev@gmail.com**
 
 - ⚡ Fun fact **I speak German.**
 
